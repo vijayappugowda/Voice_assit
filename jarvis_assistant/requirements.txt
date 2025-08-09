@@ -1,0 +1,9 @@
+flask
+openai
+speechrecognition
+pyttsx3
+selenium
+requests
+tk
+pyaudio
+python-dotenv
